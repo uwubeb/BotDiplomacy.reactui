@@ -1,0 +1,11 @@
+.hexagon-group {
+  fill: gainsboro;
+  fill-opacity: 0.8;
+}
+
+.hexagon > text {
+  fill: black;
+}
+.error {
+  color: red;
+}
